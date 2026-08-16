@@ -1,0 +1,19 @@
+description: >
+  Wallet kit for React. Connect wallets, read balances, and call
+  contracts without assembling wagmi yourself.
+topics:
+  - javascript
+  - typescript
+  - web
+  - frontend
+  - wallet
+  - web3
+  - ethereum
+  - evm
+  - wagmi
+  - viem
+  - react
+  - nextjs
+  - walletconnect
+  - eip-6963
+homepage: https://www.npmjs.com/package/@owlkit/react

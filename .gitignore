@@ -1,0 +1,13 @@
+node_modules
+dist
+*.tgz
+*.tsbuildinfo
+.DS_Store
+.agents/
+.cursor/
+.claude/
+CLAUDE.md
+AGENTS.md
+skills-lock.json
+.env
+.env.local
